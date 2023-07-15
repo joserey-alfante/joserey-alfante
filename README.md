@@ -1,3 +1,5 @@
+![joserey](https://res.cloudinary.com/dwqd0nals/image/upload/v1689432781/banner_eqkuhg.png)
+###
 <h1 align="center">Hi 👋, I'm Jose Rey</h1>
 <h3 align="center">A passionate IT student</h3>
 
