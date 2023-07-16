@@ -82,13 +82,5 @@
   </a>
 </p>
 
----
-📊 Stats
 
-
-![Jose Rey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserey-alfante&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=joserey-alfante&theme=dark&border_radius=4.5)
-
-#
 
