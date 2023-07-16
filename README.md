@@ -15,6 +15,9 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me <a href="mailto:alfantejoserey@gmail.com">Email me here</a>
+![joserey](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+#
 <p align="left">
       <a href="https://www.youtube.com/c/---?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJY4OAnY89AVcrcc5EZRV9Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -36,3 +39,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=joserey-alfante&theme=dark&border_radius=4.5)
 
 #
+
