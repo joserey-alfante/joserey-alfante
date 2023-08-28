@@ -1,33 +1,5 @@
 ![joserey](https://res.cloudinary.com/dwqd0nals/image/upload/v1689432781/banner_eqkuhg.png)
 
-###
-<h1 align="center">Hi 👋, I'm Jose Rey</h1>
-<h3 align="center">An IT student</h3>
-
-<p align="center"> 
-  Visitor Count<br> <b><i><b><i>
-  <img src="https://profile-counter.glitch.me/joserey-alfante/count.svg" style="width: 180px;"/>
-</p>
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me <a href="mailto:alfantejoserey@gmail.com">Email me here</a>
-
-
-
-![joserey](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-<p align="left">
-      <a href="https://www.youtube.com/c/---?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJY4OAnY89AVcrcc5EZRV9Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/---">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCJY4OAnY89AVcrcc5EZRV9Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/---?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joserey-alfante?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/---?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joserey-alfante?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -79,7 +51,47 @@
   <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
   </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  </a>
+</p>
+<hr>
+
+<h3 align="center">Hello I'm Jose Rey</h3>
+<h3 align="center">An IT student and Self-Proclaimed Programmer</h3>
+
+<p align="center"> 
+  Visitor Count<br> <b><i><b><i>
+  <img src="https://profile-counter.glitch.me/joserey-alfante/count.svg" style="width: 180px;"/>
 </p>
 
 
+- 🌱 I’m currently learning **Python**
 
+- 👯 I’m looking to collaborate with someone interested to build systems
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me <a href="mailto:alfantejoserey@gmail.com">Email me here</a>
+
+
+
+![joserey](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- <p align="left">
+      <a href="https://www.youtube.com/c/---?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJY4OAnY89AVcrcc5EZRV9Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/---">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCJY4OAnY89AVcrcc5EZRV9Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/---?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joserey-alfante?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/---?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joserey-alfante?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+<hr>
+ -->
