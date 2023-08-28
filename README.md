@@ -9,11 +9,7 @@
   <img src="https://profile-counter.glitch.me/joserey-alfante/count.svg" style="width: 180px;"/>
 </p>
 
-- 🔭 I’m currently working on **PyQt QR Generator App**
-
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Nakama Messenger**
 
 - 💬 Ask me about **Java**
 
