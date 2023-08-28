@@ -1,7 +1,6 @@
 ![joserey](https://res.cloudinary.com/dwqd0nals/image/upload/v1689432781/banner_eqkuhg.png)
 
 <hr>
-<br>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
