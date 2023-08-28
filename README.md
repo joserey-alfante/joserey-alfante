@@ -6,6 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joserey-alfante&label=Profile%20views&color=0e75b6&style=flat" alt="joserey-alfante" /> </p>
 
+<p align="center"> 
+  Visitor Count<br> <b><i><b><i>
+  <img src="https://profile-counter.glitch.me/joserey-alfante/count.svg" style="width: 180px;"/>
+</p>
+
 - 🔭 I’m currently working on **PyQt QR Generator App**
 
 - 🌱 I’m currently learning **Python**
